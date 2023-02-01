@@ -1,5 +1,10 @@
 # assign-graders
 
+### Purpose
+Given a CSV of instructors, sections, and TA names, this program will evenly divide TAs with grading students' assignments. The result is a csv file. 
+
+### How to
+
 1. Edit the filepath of the .csv file (i.e. example-course-staff.csv) to point to the exported csv files of the class roster for each section.
 2. Change the constants at top of the main.py file
 
